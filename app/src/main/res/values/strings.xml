@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Daftar Movie</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">tanggal</string>
+    <string name="name">Nama</string>
+    <string name="cari">Cari</string>
+    <string name="id_jakarta_bandung_semararang">marvel</string>
+    <string name="search">search movie</string>
+    <string name="view">View:</string>
+    <string name="deskripsi_film">Deskripsi Film:</string>
+    <string name="change_leanguae">bahasa</string>
+
+</resources>

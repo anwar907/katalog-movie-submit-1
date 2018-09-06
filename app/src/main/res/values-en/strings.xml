@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="description">description</string>
+    <string name="tanggal">date</string>
+    <string name="name">Name</string>
+    <string name="cari">Search</string>
+    <string name="search">cari film</string>
+    <string name="view">View:</string>
+    <string name="deskripsi_film">Film Description:</string>
+    <string name="change_leanguae">language</string>
+
+</resources>
